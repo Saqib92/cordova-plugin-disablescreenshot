@@ -1,0 +1,25 @@
+{
+  "name": "cordova-plugin-disablescreenshot",
+  "version": "0.1.0",
+  "description": "Disable ScreenShot in Android devices",
+  "cordova": {
+    "id": "cordova-plugin-disablescreenshot",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Saqib92/cordova-plugin-disablescreenshot.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "Najam Us Saqib",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Saqib92/cordova-plugin-disablescreenshot/issues"
+  },
+  "homepage": "https://github.com/Saqib92/cordova-plugin-disablescreenshot#readme"
+}
